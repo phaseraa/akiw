@@ -1,0 +1,1 @@
+// Aqui vai o JS compilado pelo React/Vite
